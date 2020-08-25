@@ -1,0 +1,16 @@
+{
+    "app": {
+        "support": {
+            "name": "Zen tunes for Zendesk Support",
+            "short_description": "Play the famous zen tunes in your Zendesk Support account.",
+            "long_description": "Play the famous zen tunes in your Zendesk Support account and \n listen to the beats it has to offer.",
+            "installation_instructions": "Simply click install."
+        },
+        "chat": {
+            "name": "Zen tunes for Zendesk Chat",
+            "short_description": "Play the famous zen tunes in your Zendesk Chat account.",
+            "long_description": "Play the famous zen tunes in your Zendesk Chat account and \n listen to the beats it has to offer.",
+            "installation_instructions": "Simply click install."
+        }
+    }
+}

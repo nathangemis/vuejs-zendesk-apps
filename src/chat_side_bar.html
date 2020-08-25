@@ -1,0 +1,12 @@
+<html>
+
+  <head>
+    <% _.forEach(htmlWebpackPlugin.options.vendorCss, function(css) { %>
+    <link type="text/css" rel="stylesheet" href="<%= css %>"><% }); %>
+  </head>
+
+  <body>
+    <div id="chat_sidebar"></div>
+  </body>
+
+</html>
