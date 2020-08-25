@@ -1,4 +1,4 @@
-*Le projet se trouve dans la branche develop.*
+*The project is in the develop branch.*
 
 
 
