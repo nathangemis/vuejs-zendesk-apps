@@ -1,3 +1,7 @@
+*Le projet se trouve dans la branche develop.*
+
+
+
 **Zendesk module generator with VueJs and Quasar Framework components**
 
 This generator that I created allows to facilitate the design of zendesk modules via VueJs and the use of components of the  [Quasar framework](https://quasar.dev/).
